@@ -1,3 +1,4 @@
+#Herobrine Seed
 Stone_Level = 63
 Deepslate_Level = -12
 Granite_Level = 16
