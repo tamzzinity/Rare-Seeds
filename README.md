@@ -16,9 +16,5 @@ This is a repo about all Minecraft special seeds and worlds that generate strang
 - Extract the zip
 - Open the html file in browser
 
-  # How to use FastSeeds.cpp
-- Download the file.
-- Compile it in a compiler with the command **g++ -O3 find_seed.cpp libcubiomes.a -fwrapv -lm -lpthread
-./a.out**   
-
+ 
 
