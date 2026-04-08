@@ -8,7 +8,7 @@ console.log("Deepslate Spawn:" + deepslateSpawn);
 let graniteSpawn = "0, 60";
 console.log("Granite Spawn:" + graniteSpawn);
 
-let andesiteSpawn = "60, 2";
+let andesiteSpawn = "79, -2";
 console.log("Andesite Spawn" + andesiteSpawn);
 
 let dioriteSpawn = "54, .4";
